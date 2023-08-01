@@ -1,4 +1,4 @@
-import pdfDownload from "../assets/Joshi_Varun_CS_Resume.pdf";
+import pdfDownload from "../assets/Joshi_Varun_Resume.pdf";
 import React from "react";
 
 
