@@ -1,5 +1,6 @@
 import Logo from "../assets/Logo";
 import NavButton from "./NavComponent";
+import React from "react";
 
 function Header() {
     // const headerLeft = {

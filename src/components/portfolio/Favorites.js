@@ -1,11 +1,11 @@
-import event from "../assets/images/portfolio/favorites/event.webp"
-import show from "../assets/images/portfolio/favorites/show.webp"
-import portrait from "../assets/images/portfolio/favorites/portrait.webp"
-// import lifestyle from "../assets/images/portfolio/favorites/lifestyle.webp"
+import event from "../assets/images/portfolio/favorites/event.webp";
+import show from "../assets/images/portfolio/favorites/show.webp";
+import portrait from "../assets/images/portfolio/favorites/portrait.webp";
+import React from "react";
+
 import ProjectsComponent from "./ProjectsComponent";
 
 function Favorites() {
-
     return (
         <div className="container px-4 py-5" id="custom-cards">
             <div className="my-5 py-5"></div>

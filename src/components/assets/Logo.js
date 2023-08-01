@@ -1,5 +1,7 @@
 import logo from "../assets/images/WatermarkTitle.png";
 import { Link } from "react-router-dom";
+import React from "react";
+
 
 function Logo() {
 

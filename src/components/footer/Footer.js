@@ -1,4 +1,6 @@
 import Logo from "../assets/Logo";
+import React from "react";
+
 
 function Footer() {
     return (

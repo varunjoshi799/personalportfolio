@@ -1,11 +1,12 @@
 import { Link } from "react-router-dom";
+import React from "react";
 
 function ProjectsComponent(props) {
     const cardStyle = {
         backgroundColor: "black",
         backgroundImage: `url(${props.image})`,
         backgroundSize: "cover",
-        backgroundRepeat: "no-repeat"
+        backgroundRepeat: "no-repeat",
     };
 
     return (

@@ -1,3 +1,5 @@
+import React from "react";
+
 function SocialLogo(props) {
     return (
         <li className="ms-3">

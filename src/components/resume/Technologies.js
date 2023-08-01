@@ -1,3 +1,4 @@
+import React from "react";
 function Technologies() {
 
     const listItemStyle = "list-group-item bg-black text-white"

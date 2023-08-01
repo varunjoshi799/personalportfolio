@@ -1,6 +1,8 @@
 //Components
 import Header from "../header/Header";
 import BookMeAlbum from "./BookMeAlbum";
+import React from "react";
+
 
 // Photos
 import photo1 from "../assets/images/eventAlbum/event1.webp";

@@ -4,6 +4,8 @@ import carousel3 from "../assets/images/portfolio/carousel3.jpg";
 import carousel4 from "../assets/images/portfolio/carousel4.jpg";
 import photo from "../assets/images/title.jpg";
 import CarouselComponent from "./CarouselComponent";
+import React from "react";
+
 // import photo from "../assets/images/title.jpg";
 // import photo from "../assets/images/title.jpg";
 // import photo from "../assets/images/title.jpg";

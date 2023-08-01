@@ -2,6 +2,8 @@ import Cover from "../landing/Cover";
 import Technologies from "./Technologies";
 import Experience from "./Experience";
 import photo from "../assets/images/work/cover.webp";
+import React from "react";
+
 
 function Resume() {
     return (

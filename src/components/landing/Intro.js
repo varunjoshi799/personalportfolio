@@ -1,6 +1,8 @@
 // Images
 import intro1 from "../assets/images/index/landing1.webp";
 import intro2 from "../assets/images/index/landing2.webp";
+import React from "react";
+
 
 function Intro() {
     return (
