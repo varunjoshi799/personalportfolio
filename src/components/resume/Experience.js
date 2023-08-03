@@ -1,9 +1,10 @@
-import pdfDownload from "../assets/Joshi_Varun_Resume.pdf";
 import React from "react";
-
 
 function Experience() {
     const experienceStyle = "text-primary";
+
+    const pdfDownload =
+        "https://amplify-amplify3df20da2612d4-staging-41925-deployment.s3.us-west-1.amazonaws.com/Joshi_Varun_Resume.pdf";
 
     return (
         <div className="component d-flex flex-column">
@@ -163,7 +164,7 @@ function Experience() {
                 type="button"
                 href={pdfDownload}
                 target="_blank"
-                rel="noreferrer"
+                // rel="noreferrer"
                 className="btn btn-outline-primary btn-lg mx-auto mb-2">
                 My Resume
             </a>
