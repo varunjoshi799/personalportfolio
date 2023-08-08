@@ -5,11 +5,11 @@ import React from "react";
 
 
 // Photos
-// import photo1 from "../assets/images/eventAlbum/event1.webp";
-// import photo2 from "../assets/images/eventAlbum/event2.webp";
-// import photo3 from "../assets/images/eventAlbum/event3.webp";
-// import photo4 from "../assets/images/eventAlbum/event4.webp";
-// import photo5 from "../assets/images/eventAlbum/event5.webp";
+import photo1 from "../assets/images/eventAlbum/event1.webp";
+import photo2 from "../assets/images/eventAlbum/event2.webp";
+import photo3 from "../assets/images/eventAlbum/event3.webp";
+import photo4 from "../assets/images/eventAlbum/event4.webp";
+import photo5 from "../assets/images/eventAlbum/event5.webp";
 import photo6 from "../assets/images/eventAlbum/event6.webp";
 // import photo7 from "../assets/images/eventAlbum/event7.webp";
 // import photo8 from "../assets/images/eventAlbum/event8.webp";
@@ -35,11 +35,11 @@ function EventAlbum() {
             <div className="album py-5 bg-body-black">
                 <div className="container">
                     <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
-                        {/* <Picture image={photo1} />
+                        <Picture image={photo1} />
                         <Picture image={photo2} />
                         <Picture image={photo3} />
                         <Picture image={photo4} />
-                        <Picture image={photo5} /> */}
+                        <Picture image={photo5} />
                         <Picture image={photo6} />
                         {/* <Picture image={photo7} />
                         <Picture image={photo8} />
