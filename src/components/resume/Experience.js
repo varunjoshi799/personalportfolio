@@ -3,6 +3,7 @@ import React from "react";
 function Experience() {
     const experienceStyle = "text-primary";
 
+    // updated Amazon s3 link
     const pdfDownload =
         "https://resumebucketvarun.s3.us-west-1.amazonaws.com/Joshi_Varun_Resume.pdf";
 
