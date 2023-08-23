@@ -1,6 +1,6 @@
 import "./App.css";
 import LandingPage from "./components/landing/LandingPage";
-import Resume from "./components/resume/Resume";
+import Resume from "./components/work/Resume";
 import Portfolio from "./components/portfolio/Portfolio";
 import Footer from "./components/footer/Footer";
 import ShowAlbum from "./components/albums/ShowAlbum";

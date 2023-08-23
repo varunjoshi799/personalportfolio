@@ -37,7 +37,7 @@ function Header() {
                     id="navbarSupportedContent">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <NavButton href="/work" name="Resume" />
+                            <NavButton href="/work" name="Work" />
                         </li>
                         <li className="nav-item">
                             <NavButton href="/portfolio" name="Portfolio" />
